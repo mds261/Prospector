@@ -1,2 +1,2 @@
-# Prospector
-Gibson's Prospector Solitaire
+# ProspectorSolitaire
+Unity 5 Prospector Solitaire 2D Game
